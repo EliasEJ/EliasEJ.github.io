@@ -1177,3 +1177,7 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.keywords{
+  color: #18d26e;
+}
